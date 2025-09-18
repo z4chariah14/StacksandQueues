@@ -13,7 +13,7 @@ Problem can be solved using a **Stack**.
 3.  If the character is an **opening bracket** (`(`, `[`, or `{`), **push** it onto the stack.
 4.  If the character is a **closing bracket** (`)`, `]`, or `}`):
     * If the stack is empty, there is no matching opener, so the string is **invalid**.
-    * **Pop** the top element from the stack. If it does not form a matching pair with the current closing bracket, the string is **invalid**.
+    * **Pop** the top element from the stack. If it does not form a matching pair with the current closing bracket, the string is **invalid**. (Use a Map/dictionary to match pairs)
 5.  After the loop finishes, if the stack is **empty**, all brackets were matched, and the string is **valid**. If the stack is **not empty**, there are unclosed opening brackets, and the string is **invalid**.
 
 ---
