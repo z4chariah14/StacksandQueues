@@ -1,6 +1,6 @@
 # StacksandQueues
 
-This Repository involves the implementation of Stack and Queue data structures in Kotlin, including a `DoubleLinkedList` and `Stack` and `Queue` classes. Demonstrates the practical application of core data structure principles like LIFO (Last-In, First-Out) and FIFO (First-In, First-Out) to solve problems. I have attempted to solve exercises 3 (in Kotlin), 4, and 5 (in writing).
+This Repository involves the implementation of Stack and Queue data structures in Kotlin, including a `DoubleLinkedList` and `Stack` and `Queue` classes. Demonstrates the practical application of core data structure principles like LIFO (Last-In, First-Out) and FIFO (First-In, First-Out) to solve problems. I have attempted to solve exercises 3 (in Kotlin, Main.kt), 4, and 5 (in writing).
 
 ---
 ## Exercise 4: Valid Parentheses
